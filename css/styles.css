@@ -378,10 +378,10 @@ nav h1 a {
 .main-wrapper {
 
 	display: flex;
-	    flex-wrap: wrap;
-	    width: 100%;
-	    background-color: #f3f3f3;
-	    min-height: 100%;
+	flex-wrap: wrap;
+	width: 100%;
+	background-color: #f3f3f3;
+	min-height: 100%;
 
 }
 
@@ -404,8 +404,8 @@ nav h1 a {
 
 
 /* ====================== Media Query ====================== */
- 
-	@media screen and (max-width: 440px) {
+
+@media screen and (max-width: 440px) {
 
 	.filter {
 		min-height: 10vh;
@@ -416,7 +416,7 @@ nav h1 a {
 @media only screen and (max-width: 850px) {
 
 	h2 {
-     display: none;
+    display: none;
 
   }
 
