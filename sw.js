@@ -18,8 +18,7 @@ self.addEventListener('install', function (event) {
         "./data/restaurants.json",
         "./js/dbhelper.js",
         "./js/main.js",
-        "./js/restaurant_info.js",
-        "./js/serviceWorker.js",
+        "./js/restaurant_info.js"
       ]);
         })
     );
